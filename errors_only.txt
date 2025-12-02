@@ -1,0 +1,2 @@
+ERROR: Nepodařilo se načíst konfiguraci
+ERROR: Selhalo připojení k databázi
